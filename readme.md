@@ -7,7 +7,7 @@
 
 Final application running in Unity engine:
 
-![Holo](/unityGamePrint.png)
+![Holo](/unityGame.png)
 
 Final application running in HoloLens Device:
 
