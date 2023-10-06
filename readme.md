@@ -1,4 +1,5 @@
 ### we cannot share code and other assests, the work is protected by NDA
+#### In the future the url of the arcticle related to this work will be published here
 
 # HoloLens Final Project 2022/2023
 ## [Francisco Pereira (a42509)](https://github.com/ffarps) && [Manuel Patrício (a41764)](https://github.com/Rancid-coder)
