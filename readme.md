@@ -6,6 +6,8 @@
 ### A Mixed Reality Application
 #### Augmented Reality in Industrial Serial Manufacturing using the HoloLens
 
+### Personal project based on this final degree project: [HoloAssembly](https://github.com/ffarps/HoloAssembly)
+
 Final application running in Unity engine:
 
 ![Holo](/unityGame.png)
